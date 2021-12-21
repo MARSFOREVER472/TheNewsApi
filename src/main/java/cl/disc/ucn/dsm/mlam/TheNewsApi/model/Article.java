@@ -3,11 +3,19 @@ package cl.disc.ucn.dsm.mlam.TheNewsApi.model;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
+@Entity
 @NoArgsConstructor
 public class Article {
 
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
     @Getter
-    int id;
+    Long id;
 
     @Getter
     String title;
