@@ -1,6 +1,6 @@
 # TheNewsApi
 
-_RestApi realizado usando spring para la asignatura de desarrollo de soluciones moviles._
+_RestApi realizado usando spring para la asignatura de desarrollo de soluciones móviles._
 
 ### Autor
 
