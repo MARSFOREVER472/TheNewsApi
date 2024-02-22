@@ -4,7 +4,7 @@ _RestApi realizado usando spring para la asignatura de desarrollo de soluciones 
 
 ### Autor
 
-Marcelo Lam Biaggini
+_Marcelo Lam Biaggini_
 
 # Diagrama de clases
 
