@@ -4,7 +4,7 @@
 
 ### Autor
 
-_Marcelo Lam Biaggini_
+**_Marcelo Lam Biaggini_**
 
 # Diagrama de clases
 
