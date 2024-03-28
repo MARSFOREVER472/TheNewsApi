@@ -8,6 +8,6 @@
 
 ![Diagrama de clases](/DiagramaNewsApi.png)
 
-### Autor
+### Autor:
 
 **_Marcelo Lam Biaggini_**
