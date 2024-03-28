@@ -1,6 +1,6 @@
 # TheNewsApi
 
-**_RestApi realizado utilizando spring boot para la asignatura de desarrollo de soluciones móviles._**
+**_RestApi realizado utilizando el framework spring boot para la asignatura de desarrollo de soluciones móviles._**
 
 ### Autor
 
