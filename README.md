@@ -8,4 +8,6 @@
 
 # Diagrama de clases
 
+Se muestra en detalle de lo que es el diagrama de clases acerca de esta A.P.I.:
+
 ![Diagrama de clases](/DiagramaNewsApi.png)
